@@ -3,7 +3,7 @@
   <head>
     <title>Test</title>
 <body>
-  <a href="Home.html">The LInk is here</a>a>
+  <a href="Home.html">The LInk is here</a>
 <body>
   </head>
 </html>
